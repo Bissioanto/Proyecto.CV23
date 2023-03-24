@@ -1,3 +1,0 @@
-.#Proyecto.CV23/
-
-
